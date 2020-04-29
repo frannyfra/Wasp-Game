@@ -11,6 +11,7 @@ header {
   font-size: 4em;
   text-align: center;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: #505050;
 }
 
 .wasps-image {
@@ -32,7 +33,7 @@ header {
   height: 120px;
   border-radius: 50%;
   background-color: yellowgreen;
-  border: 2px solid green;
+  border: 3px solid white;
   text-align: center;
   font-weight: bold;
   font-size: 1.5em;
